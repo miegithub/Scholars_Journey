@@ -6,7 +6,7 @@ that might affect the character's progress and the game's experience. As the gam
 will encounter challenges and conflicts that must be resolved, thus making it only possible to progress only 
 when certain goals have been attained.  
 
-![Game Screenshot](https://raw.githubusercontent.com/miegithub/Scholars_Journey/main/Scholars_Journey/Screenshot-2025-02-27-212730.png)
+![Scholar's Journey](https://raw.githubusercontent.com/miegithub/Scholars_Journey/main/scholar.gif)
 
 
 
