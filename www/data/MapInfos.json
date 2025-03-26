@@ -1,0 +1,22 @@
+[
+null,
+{"id":1,"expanded":true,"name":"M1-Westwood Town","order":1,"parentId":0,"scrollX":2745,"scrollY":2684},
+{"id":2,"expanded":true,"name":"M2-Home (Living Room)","order":2,"parentId":1,"scrollX":811,"scrollY":512},
+{"id":3,"expanded":false,"name":"M3-Home (Kitchen)","order":3,"parentId":2,"scrollX":819,"scrollY":448},
+{"id":4,"expanded":false,"name":"M4-Home (Bathroom)","order":8,"parentId":5,"scrollX":819,"scrollY":448},
+{"id":5,"expanded":false,"name":"M5-Cafe","order":5,"parentId":1,"scrollX":914,"scrollY":1152},
+{"id":6,"expanded":false,"name":"M6-Laundry Shop","order":9,"parentId":1,"scrollX":819,"scrollY":448},
+{"id":7,"expanded":false,"name":"M7-7/11","order":10,"parentId":1,"scrollX":819,"scrollY":448},
+{"id":8,"expanded":true,"name":"M8-Hospital (Ground Floor)","order":11,"parentId":1,"scrollX":1058,"scrollY":624},
+{"id":9,"expanded":false,"name":"M9-Hospital (Lab Room)","order":13,"parentId":8,"scrollX":811,"scrollY":512},
+{"id":10,"expanded":false,"name":"M10-Hospital (2nd Floor)","order":12,"parentId":8,"scrollX":1152,"scrollY":620},
+{"id":11,"expanded":true,"name":"M11-Cafe-Women","order":6,"parentId":5,"scrollX":819,"scrollY":448},
+{"id":12,"expanded":false,"name":"M12-Cafe-Men","order":7,"parentId":5,"scrollX":819,"scrollY":448},
+{"id":13,"expanded":true,"name":"M13-School (Hallway)","order":14,"parentId":1,"scrollX":811,"scrollY":656},
+{"id":14,"expanded":false,"name":"MAP14-School (Classroom)","order":15,"parentId":13,"scrollX":819,"scrollY":448},
+{"id":15,"expanded":false,"name":"M15-School (Library)","order":17,"parentId":16,"scrollX":811,"scrollY":944},
+{"id":16,"expanded":false,"name":"M16-School (Classroom2)","order":16,"parentId":13,"scrollX":819,"scrollY":448},
+{"id":17,"expanded":false,"name":"M17-Home (Bedroom)","order":4,"parentId":2,"scrollX":819,"scrollY":448},
+{"id":18,"expanded":false,"name":"M18-Cutscene","order":19,"parentId":0,"scrollX":819,"scrollY":448},
+{"id":19,"expanded":false,"name":"M19-Working Area","order":18,"parentId":1,"scrollX":811,"scrollY":620}
+]
